@@ -3,7 +3,7 @@
 - 🌱 I’m currently furthering my classical piano technique between gaming sessions.
 - 💞️ I'm hoping to work with indie game developers as a sound and music asset.
 - 📫 You can check out my soundcloud and instagram (which I don't exactly keep up to date).
-- [soun](https://soundcloud.com/bytemixer)
+- https://soundcloud.com/bytemixer
 - https://www.instagram.com/bytemixer/
 - 
 
